@@ -1,0 +1,27 @@
+C:\НУ_ЛП\лаби прогіч\asd\OBD\OBD\bin\Debug\OBD.exe.config
+C:\НУ_ЛП\лаби прогіч\asd\OBD\OBD\bin\Debug\OBD.exe
+C:\НУ_ЛП\лаби прогіч\asd\OBD\OBD\bin\Debug\OBD.pdb
+C:\НУ_ЛП\лаби прогіч\asd\OBD\OBD\obj\Debug\OBD.csproj.AssemblyReference.cache
+C:\НУ_ЛП\лаби прогіч\asd\OBD\OBD\obj\Debug\OBD.csproj.SuggestedBindingRedirects.cache
+C:\НУ_ЛП\лаби прогіч\asd\OBD\OBD\obj\Debug\OBD.Form1.resources
+C:\НУ_ЛП\лаби прогіч\asd\OBD\OBD\obj\Debug\OBD.Properties.Resources.resources
+C:\НУ_ЛП\лаби прогіч\asd\OBD\OBD\obj\Debug\OBD.csproj.GenerateResource.cache
+C:\НУ_ЛП\лаби прогіч\asd\OBD\OBD\obj\Debug\OBD.csproj.CoreCompileInputs.cache
+C:\НУ_ЛП\лаби прогіч\asd\OBD\OBD\obj\Debug\OBD.exe
+C:\НУ_ЛП\лаби прогіч\asd\OBD\OBD\obj\Debug\OBD.pdb
+C:\НУ_ЛП\лаби прогіч\asd\OBD\OBD\obj\Debug\OBD.LogIn.resources
+C:\НУ_ЛП\лаби прогіч\asd\OBD\OBD\obj\Debug\OBD.SingUp.resources
+C:\НУ_ЛП\лаби прогіч\asd\OBD\OBD\obj\Debug\OBD.removeCategory.resources
+C:\Users\ASUS\source\repos\OBD_final\OBD\OBD\bin\Debug\OBD.exe.config
+C:\Users\ASUS\source\repos\OBD_final\OBD\OBD\bin\Debug\OBD.exe
+C:\Users\ASUS\source\repos\OBD_final\OBD\OBD\bin\Debug\OBD.pdb
+C:\Users\ASUS\source\repos\OBD_final\OBD\OBD\obj\Debug\OBD.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\OBD_final\OBD\OBD\obj\Debug\OBD.Form1.resources
+C:\Users\ASUS\source\repos\OBD_final\OBD\OBD\obj\Debug\OBD.LogIn.resources
+C:\Users\ASUS\source\repos\OBD_final\OBD\OBD\obj\Debug\OBD.Properties.Resources.resources
+C:\Users\ASUS\source\repos\OBD_final\OBD\OBD\obj\Debug\OBD.removeCategory.resources
+C:\Users\ASUS\source\repos\OBD_final\OBD\OBD\obj\Debug\OBD.SingUp.resources
+C:\Users\ASUS\source\repos\OBD_final\OBD\OBD\obj\Debug\OBD.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\OBD_final\OBD\OBD\obj\Debug\OBD.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\OBD_final\OBD\OBD\obj\Debug\OBD.exe
+C:\Users\ASUS\source\repos\OBD_final\OBD\OBD\obj\Debug\OBD.pdb
